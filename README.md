@@ -1,4 +1,4 @@
-# Exercise Pemrograman Backend Lanjutan
+# Pemrograman Backend Lanjutan
 
 ## Build Simple Blog with Gin Framework 2
 
